@@ -22,4 +22,14 @@ dataset 2:
 dataset 3:
 
 
+Best Results Are Obtained Using 
+
+Datasets :
+
+Epochs  :
+
+Lambda  :
+
+Batch Size :
+
 ### Outputs
