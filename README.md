@@ -1,4 +1,4 @@
-# Project Title : Game Development On Pixel Arts
+# Project Title : Pixel Art Generation And GameDev On Pixelated Images
 #### Pixel arts lets us express more in less
 #### Helps in creating light weight, beautiful applications
 #### CycleGans are used to convert realistic images to pixel art
