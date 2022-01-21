@@ -7,29 +7,30 @@
 ### Datasets
 #### Label A :
 
-dataset 1:
+dataset 1: https://www.kaggle.com/lijiyu/imagenet
 
-dataset 2:
-
-dataset 3:
+dataset 2: https://www.kaggle.com/sarthak4u/aimages
 
 #### Label B:
 
-dataset 1:
+dataset 1: https://www.kaggle.com/sarthak4u/bimages
 
-dataset 2:
+dataset 2: https://drive.google.com/file/d/1ko4sGkiIppFH9248_7LVYiyHpzU6OFQp/view?usp=sharing
 
-dataset 3:
 
 
 #### Best Results Are Obtained Using 
 
 Datasets :
 
-Epochs  :
+Train :
+Label A : https://www.kaggle.com/lijiyu/imagenet
+Label B : https://drive.google.com/file/d/1ko4sGkiIppFH9248_7LVYiyHpzU6OFQp/view?usp=sharing
 
-Lambda  :
+Epochs  : 10
 
-Batch Size :
+Lambda (learning rate)  : 2e-4
+
+Batch Size : 10 for both the labels (though can be kept different)
 
 ### Outputs
