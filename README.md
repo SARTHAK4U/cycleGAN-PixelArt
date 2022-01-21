@@ -4,7 +4,7 @@
 #### CycleGans are used to convert realistic images to pixel art
 
 
-### Datasets
+## Datasets
 #### Label A :
 
 dataset 1: https://www.kaggle.com/lijiyu/imagenet
@@ -19,7 +19,7 @@ dataset 2: https://drive.google.com/file/d/1ko4sGkiIppFH9248_7LVYiyHpzU6OFQp/vie
 
 
 
-#### Best Results Are Obtained Using 
+## Best Results Are Obtained Using 
 
 ##### Datasets :
 
