@@ -72,5 +72,5 @@ Label B : https://drive.google.com/file/d/1ko4sGkiIppFH9248_7LVYiyHpzU6OFQp/view
 ![Outputs](Outputs/32.png)
 ![Outputs](Outputs/33.png)
 
-
+#Sample Game On Generated PixelArt
 [![Watch the video](https://user-images.githubusercontent.com/69719805/152995588-8cccfcf6-8b78-461c-95ac-3c7c35061290.png)](https://www.youtube.com/watch?v=ttAzAnJ94l8)
