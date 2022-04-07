@@ -15,7 +15,7 @@ dataset 2: https://www.kaggle.com/sarthak4u/aimages
 
 dataset 1: https://www.kaggle.com/sarthak4u/bimages
 
-dataset 2: https://drive.google.com/file/d/1ko4sGkiIppFH9248_7LVYiyHpzU6OFQp/view?usp=sharing
+dataset 2: https://drive.google.com/file/d/1sk1Kj--rVgs7LnT93ESQuzvMNJwpQIQ5/view?usp=sharing
 
 
 ## Methedology:
