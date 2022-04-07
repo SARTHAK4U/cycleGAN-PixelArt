@@ -44,7 +44,7 @@ Train :
 
 Label A : https://www.kaggle.com/lijiyu/imagenet
 
-Label B : https://drive.google.com/file/d/1ko4sGkiIppFH9248_7LVYiyHpzU6OFQp/view?usp=sharing
+Label B : https://drive.google.com/file/d/1sk1Kj--rVgs7LnT93ESQuzvMNJwpQIQ5/view?usp=sharing
 
 ##### Epochs  : 10
 
