@@ -36,7 +36,10 @@ After creating a cycle-GAN code that can convert the input images into a pixelat
 The basic idea of the Monster Chase game that was created is that the player must try to protect themselves from the monster which is continuously spawned from both directions by jumping over them. If the player encounters a monster the game is over and the player would have to start over. All the assets used in the game ranging from the background, ground, characters, enemy, props, etc were pixelated using the cycleGAN code.
 The game has been developed in Unity version 2020.3.20f1. In total there are eight scripts, all of which have been written in C# language. The player script is solely dedicated to the player's movement. The Monster and MonsterSpawner scripts are used for defining the movement of the monster. While the former script deals with defining the monster’s rigid-body properties and velocity, the latter is used for spawning monsters arbitrarily from the left and right sides of the scene. There are scripts for creating the main menu page and various options like replay and home button. The loading of different scenes in the game, the process of destroying objects when it has a null reference, and the movement of the camera such that it follows the player at all times are also carried out through the scripts.
 
-## Best Results Are Obtained Using 
+## Game Setup
+Download mmonsterchase.zip extract it and open.exe file...Your game will lauch directly
+
+## Best Results For Pixel Art Generation Are Obtained Using 
 
 ##### Datasets :
 
